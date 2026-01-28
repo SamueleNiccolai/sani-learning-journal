@@ -8,20 +8,20 @@ A public record of my learning journey through software development.
 - Accountability keeps me consistent  
 - Maybe it helps someone else
 
-## Current Projects
+## Current Learning
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| [Docker & Go Orchestrator](./projects/docker-go-orchestrator) | 🟢 Active
+| Project | Status    | Description |
+| ------- | --------- | ----------- |
+| Docker  | 🟢 Active |             |
+|         |           |             |
 
 ## Structure
 ```
-projects/          # Deep-dive learning projects
+learning/          # Deep-dive learning arguments
 templates/         # Templates for journal entries
 articles/          # Blog post drafts and published pieces
 ```
 
 ## Connect
 
-- Medium: [your-medium-handle]
-- LinkedIn: [your-linkedin]
+- LinkedIn: https://www.linkedin.com/in/samueleniccolai/
